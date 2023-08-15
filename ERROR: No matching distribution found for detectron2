@@ -1,0 +1,4 @@
+ERROR: No matching distribution found for detectron2
+—— Probably problems: Pytoch and torchvision version are not capable for detectron2
+—— Solve: https://pytorch.org/get-started  
+—— Go to the authorities and redownload Version Matching torch and torchvision
