@@ -6,3 +6,10 @@ https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 —— Probably problems: Pytoch and torchvision version are not capable for detectron2
 —— Solve: https://pytorch.org/get-started  
 —— Go to the authorities and redownload <Version Matching> torch and torchvision
+
+Then enter the command:
+python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+
+# (add --user if you don't have permission) / add sudo and enter password
+
+
